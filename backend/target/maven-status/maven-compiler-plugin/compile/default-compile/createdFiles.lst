@@ -1,0 +1,13 @@
+com\lifeshield\LifeShieldApplication.class
+com\lifeshield\state\UserState.class
+com\lifeshield\state\AppState.class
+com\lifeshield\state\UserStateRepository.class
+com\lifeshield\api\StateController.class
+com\lifeshield\auth\AppUser.class
+com\lifeshield\auth\AuthController$LoginRequest.class
+com\lifeshield\auth\AppUserRepository.class
+com\lifeshield\auth\AuthController.class
+com\lifeshield\api\CorsConfig$1.class
+com\lifeshield\auth\AuthController$RegisterRequest.class
+com\lifeshield\state\AppStateRepository.class
+com\lifeshield\api\CorsConfig.class
